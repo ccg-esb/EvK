@@ -14,7 +14,9 @@ The repository is organized into a series of Jupyter notebooks, each detailing a
 
 [3. Modeling plasmid dynamics in multistrain communities](py_pOXA48_SI3_multistrain.ipynb): In this notebook, we extend our model to multi-strain communities and describe the computational methods used to incorporate multiple strains into the model.
 
-[4. Computational Simulations of Pair-wise Interactions](py_pOXA48_SI3_pairwise.ipynb): We present a series of computational simulations that depict the dynamics of pair-wise interactions between different bacterial strains in the presence of plasmid and antibiotic.
+[4. Computational Simulations of Pair-wise Interactions](py_pOXA48_SI4_pairwise.ipynb): We present a series of computational simulations that depict the dynamics of pair-wise interactions between different bacterial strains in the presence of plasmid and antibiotic.
 
-[5. Computational Simulations of Multi-Species Bacterial Communities](py_pOXA48_SI3_communities.ipynb): Finally, we use our model to simulate complex, multi-species bacterial communities and analyze the resulting dynamics under various selective conditions.
+[5. Computational Simulations of Multi-Species Bacterial Communities](py_pOXA48_SI5_communities.ipynb): In this notebook we use our model to simulate complex, multi-species bacterial communities and analyze the resulting dynamics under various selective conditions.
+
+[6. Computational Simulations of Multi-Species Bacterial Communities](py_pOXA48_SI6_analysis.ipynb): Finally, here we visualize the results obtained in the numerical experiments.
 
