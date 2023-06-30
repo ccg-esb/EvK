@@ -2,9 +2,10 @@
 
 Scripts and data necessary to produce theoretical Figures in **"Differences in vertical and horizontal transmission dynamics shape plasmid distribution in clinical enterobacteria"**, A Alonso-del Valle, L Toribio-Celestino, A Quirant, C Tardio Pi, J DelaFuente, R Canton, E Rocha, C Ubeda, R Peña-Miller and A San Millan.
 
-The goal of this supplementary material is to posulate a mathematical model that can be used to perform computational simulations to better understand the dynamics of plasmid-bearing populations in multi-strain bacterial communities under antibiotic pressure.
+The supplementary material outlines a model designed to study the plasmid dynamics within bacterial populations under the influence of antibiotic treatment. This exploration is conducted via computational simulations, with a particular emphasis on understanding the behavior of plasmid-bearing populations in response to antibiotics under varied environmental conditions. The goal is to pinpoint the conditions that promote plasmid persistence within the population.
 
-Our aim is to provide a comprehensive, integrated view of the plasmid dynamics and its influence on antibiotic resistance within bacterial populations. This supplementary material is designed to facilitate understanding and further exploration of the theoretical model by providing a detailed walkthrough of our methodology, including the mathematical models, parameter estimations, and computational simulations we used in our study.
+Our model incorporates key elements such as plasmid transfer, segregational loss, and the pressure exerted by antibiotic-induced selection. Through simulation of various scenarios, we study how these factors shape plasmid dynamics and dictate the overall response of bacterial communities to antibiotics.
+
 
 The repository is organized into a series of Jupyter notebooks, each detailing a different aspect of our research:
 
