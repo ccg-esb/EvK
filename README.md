@@ -14,20 +14,14 @@ The repository is organized into a series of Jupyter notebooks, each detailing a
 
 [1. Modelling of Bacterial Growth and Plasmid-Driven Antibiotic Resistance](py_pOXA48_SI1_model.ipynb): This notebook provides an overview of the mathematical model, which describes the growth kinetics and plasmid dynamics in clonal bacterial populations.
 
-[2. Model parametrization](py_pOXA48_SI2_parametrization.ipynb): Here, we show how our model was parameterized using empirical data from lab-based experiments.
+[2. Model parametrization](py_pOXA48_SI2_parametrization.ipynb): Here we show how our model was parameterized using empirical data from lab-based experiments.
 
-[3. Modeling plasmid dynamics in multistrain communities](py_pOXA48_SI3_multistrain.ipynb): In this notebook, we extend our model to multi-strain communities and describe the computational methods used to incorporate multiple strains into the plasmid population dynamics model.
+[3. Modeling plasmid dynamics in multistrain communities](py_pOXA48_SI3_multistrain.ipynb): In this notebook we extend our model to multi-strain communities and describe the computational methods used to simulate a serial transfer experiment of a mixed population invaded by a conjugative plasmid.
 
 [4. Computational Simulations of Pair-wise Interactions](py_pOXA48_SI4_pairwise.ipynb): We present a series of computational simulations that depict the dynamics of pair-wise interactions between different bacterial strains in the presence of plasmid and a range of antibiotic concentrations.
 
-[5. Computer experiments: multistrain dose-response assays](py_pOXA48_SI5_dose-response.ipynb): In this notebook we use our model to evaluate how increasing selective pressures modify the structure of multistrain populations.
+[5. Computer experiments: multistrain dose-response assays](py_pOXA48_SI5_dose-response.ipynb): In this notebook we use our model to evaluate how increasing selective pressures shape plasmid distribution in multistrain populations.
 
 [6. Computational Simulations of Multi-Species Bacterial Communities](py_pOXA48_SI6_knockout_simulation.ipynb): This notebook documents the implementation of the iterative knock-out simulations used in our study. The main goal here is to evaluate the stability of the plasmid following the sequential removal of strains, in order to identify strains that have a significant impact on plasmid stability within the community.
 
 [7. Computer experiments: Analyzing results of iterative knock-out simulations](py_pOXA48_SI7_knockout_analysis.ipynb): Finally, here we visualize the results obtained from the iterative knock-out simulations. 
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
