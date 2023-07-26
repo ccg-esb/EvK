@@ -20,7 +20,7 @@ The repository is organized into a series of Jupyter notebooks, each detailing a
 
 [4. Computational Simulations of Pair-wise Interactions](py_pOXA48_SI4_pairwise.ipynb): We present a series of computational simulations that depict the dynamics of pair-wise interactions between different bacterial strains in the presence of plasmid and a range of antibiotic concentrations.
 
-[5. Computer experiments: multistrain dose-response assays](py_pOXA48_SI5_dose-response.ipynb): In this notebook we use our model to evaluate how increasing selective pressures shape plasmid distribution in multistrain populations.
+[5. Computer experiments: multistrain dose-response assays](py_pOXA48_SI5_dose-response.ipynb): In this notebook we use our model to evaluate how selective pressures shape plasmid distribution in multistrain populations.
 
 [6. Computational Simulations of Multi-Species Bacterial Communities](py_pOXA48_SI6_knockout_simulation.ipynb): This notebook documents the implementation of the iterative knock-out simulations used in our study. The main goal here is to evaluate the stability of the plasmid following the sequential removal of strains, in order to identify strains that have a significant impact on plasmid stability within the community.
 
