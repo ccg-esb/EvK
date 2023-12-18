@@ -5,6 +5,8 @@ A Alonso-del Valle, L Toribio-Celestino, A Quirant, C Tardio Pi, J DelaFuente, R
 _Proceedings of the National Academy of Sciences_, 120: 51 (2023)\
 [DOI: 10.1073/pnas.2314135120](https://doi.org/10.1073/pnas.2314135120)
 
+[![DOI](https://zenodo.org/badge/610299464.svg)](https://zenodo.org/doi/10.5281/zenodo.10402517)
+
 ## Overview
 
 This supplementary material outlines a mathematical model designed to study the plasmid dynamics within bacterial populations under the influence of antibiotic treatment. This exploration is conducted via computational simulations, designed to understand the behavior of plasmid-bearing populations in response to antibiotics under varied environmental conditions.
