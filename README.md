@@ -2,7 +2,7 @@
 
 Scripts and data necessary to produce theoretical Figures in **"Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria"**\ 
 A Alonso-del Valle, L Toribio-Celestino, A Quirant, C Tardio Pi, J DelaFuente, R Canton, E Rocha, C Ubeda, R Peña-Miller and A San Millan.\
-__Proceedings of the National Academy of Sciences__, 120: 51 (2023)\
+_Proceedings of the National Academy of Sciences_, 120: 51 (2023)\
 [DOI: 10.1073/pnas.2314135120](https://doi.org/10.1073/pnas.2314135120)
 
 ## Overview
